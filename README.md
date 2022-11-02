@@ -1,0 +1,2 @@
+# wizards-combat
+DEMO
